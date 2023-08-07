@@ -1,4 +1,4 @@
-# About Me
+# About Me ![image](https://avatars.githubusercontent.com/u/127317035?s=400&u=95ff787a516cdca449d1eb039160ce27b741b214&v=4)
 Contains information about me.
 
 Hi. I'm Ebru. I am a computer engineering graduate. My field of interest is software testing. I work in this field, including manual and automation. You can see my work on [my profile](https://github.com/ebrubeskaya).
