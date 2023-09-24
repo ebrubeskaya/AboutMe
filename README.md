@@ -9,8 +9,7 @@ Contains information about me.
    - Mobil Testing: Appium
    - API Testing: Postman, SoapUI
    - Performance Testing: Apache JMeter
-- You can also see my manual testing work on [my profile](https://github.com/ebrubeskaya).
+- You can also see my manual testing work and other works on [my profile](https://github.com/ebrubeskaya).
 - You can see my education and experience history on my [LinkedIn](https://www.linkedin.com/in/ebru-be%C5%9Fkaya-18421b251/) account.
-- You can also see my work on [my profile](https://github.com/ebrubeskaya).
 
 - 💌 You can also reach me at ebrubeskaya12@gmail.com and ebrubesk96@outlook.com
