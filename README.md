@@ -5,6 +5,7 @@ Contains information about me.
 - 👀 I am an ISTQB Foundation Level certified software tester. I work in manual and automation test fields.
 - 💞️ My favorite programming languages, tools and technologies:
    - Programming Languages: Java, JavaScript/TypeScript, PostgreSQL
+   - Manual Testing: Jira Xray, Confluence, Trello, Zephyr Scale
    - Web Testing: Selenium WebDriver, Cucumber/BDD, TestNG, Katalon Studio
    - Mobil Testing: Appium
    - API Testing: Postman, SoapUI
